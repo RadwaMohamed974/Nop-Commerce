@@ -1,0 +1,42 @@
+{
+  "Register": {
+    "firstname": "standard_user",
+    "lastname": "secret_sauce",
+    "email": "dddd@ddd.com",
+    "password": "eeeee"
+  },
+
+  "login": {
+    "email": "Radwa@ggg.com" ,
+    "password": "225jhjh"
+  },
+  "Search": {
+    "productname": "apple-macbook-pro-13-inch"
+  },
+
+  "contact us": {
+    "fullname": "mkjdkd",
+    "email": "fffdfd@mm.com"
+  },
+
+  "sendemail":{
+    "emailfriend": "fffff@jjh.com",
+    "emailaddress": "ddddd",
+    "personalmessage": "ddddd"
+
+},
+  "checkout": {
+    "phone": "0499550",
+    "zip": "0000",
+    "city": "cairo",
+    "address":"octobar"
+  }
+}
+
+
+
+
+
+
+
+
